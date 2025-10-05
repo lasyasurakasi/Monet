@@ -1,5 +1,5 @@
 # Sample Image
-![example](/images/lake_drawing.jpg)
+![example](/images/lake.jpg)
 # Render Image
 ![example](/images/lake_drawing.jpg)
 
@@ -11,7 +11,7 @@ This repo contains a python application that converts a photo to a monet paintin
 
 ## Installation
 ```
-
+git clone https://github.com/lasyasurakasi/Monet.git
 cd Monet 
 pip install -r requirements.txt
 ```
